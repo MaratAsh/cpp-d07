@@ -8,3 +8,6 @@ add_executable(cpp_d07_00
 
 add_executable(cpp_d07_01
         ex01/main.cpp)
+
+add_executable(cpp_d07_02
+        ex02/main.cpp)
